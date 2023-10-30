@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate Fullstack Developer, very inquisitive. passionate about creating visaually appealing content with intresting functionality.</h3>
+<h3 align="center">A passionate Fullstack Developer, very inquisitive. passionate about creating visually appealing content with intresting functionality.</h3>
 <img align="center" alt="coding" width="400" src="https://png.pngtree.com/png-clipart/20210312/original/pngtree-web-developer-isometric-illustration-png-image_6067558.jpg" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=femzy1900" alt="femzy1900" /></a> </p>
