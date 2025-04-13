@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Blogger**
 
-- 📚 I’m currently learning **Express.js, Node.js**
+- 📚 I’m currently learning **Mobile Dev**
 
 - 👯 I’m looking to collaborate on **on any project**
 
-- 👨‍💻 All of my projects are available at [femdevv.netlify.app](femdevv.netlify.app)
+- 👨‍💻 All of my projects are available at repo
 
-- 💬 Ask me about **Javascript Framework, CMS Builder, Flutterflow.io, Bubble.io**
+- 💬 Ask me about **Javascript Framework, MERN, React js, RUST, Solidity, Smart Contract, Database Development, Backend,  CMS Builder, Flutterflow.io, Bubble.io**
 
-- 📫 How to reach me **adedokunfemi14@gmail.com**
+- 📫 How to reach me **Ogunsina.Eriola@gmail.com**
 
-- ⚡ Fun fact **Jovial, Personal Development**
+- ⚡ Fun fact **Jovial, Personal Development, Team Work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
