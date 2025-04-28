@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Javascript Framework, MERN, React js, RUST, Solidity, Smart Contract, Database Development, Backend,  CMS Builder, Flutterflow.io, Bubble.io**
 
-- 📫 How to reach me **Ogunsina.Eriola@gmail.com**
+- 📫 How to reach me **adedokunfemi14@gmail.com**
 
 - ⚡ Fun fact **Jovial, Personal Development, Team Work**
 
